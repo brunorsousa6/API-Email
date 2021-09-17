@@ -1,2 +1,2 @@
 # API-Email
-API criada por meio de curso.
+API de Email
